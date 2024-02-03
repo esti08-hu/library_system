@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+
+table thead tr {
+  background-color: #A1CCD1;
+  color: #fff;
+  font-weight: bolder;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+table th,
+table td{
+  border: 5px solid  #A1CCD1;
+}
